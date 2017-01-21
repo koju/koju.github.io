@@ -163,18 +163,18 @@ img {
   width: 50px;
   margin-top: -25px;
 }
-.navbar-custom .avatar-container  .avatar-img-border {
+.navbar-custom .avatar-container .avatar-img-border {
   width: 100%;
-  border-radius: 50%;
+  border-radius: 5%;
   margin-left: -50%;
   display: inline-block;
   box-shadow: 0 0 8px rgba(0, 0, 0, .8);
   -webkit-box-shadow: 0 0 5px rgba(0, 0, 0, .8);
   -moz-box-shadow: 0 0 8px rgba(0, 0, 0, .8);
 }
-.navbar-custom .avatar-container  .avatar-img {
+.navbar-custom .avatar-container .avatar-img {
   width: 100%;
-  border-radius: 50%;
+  border-radius: 5%;
   display: block;
 }
 
